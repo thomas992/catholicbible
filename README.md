@@ -1,4 +1,3 @@
-````markdown
 # DRB & CPDV Bible JSON
 
 This repository provides structured JSON versions of two complete Catholic Bible translations:
