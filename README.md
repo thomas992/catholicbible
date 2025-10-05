@@ -1,5 +1,3 @@
-Here’s a simple **README.md** you can drop into your new repository:
-
 ````markdown
 # DRB & CPDV Bible JSON
 
