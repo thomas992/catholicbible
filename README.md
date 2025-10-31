@@ -1,3 +1,8 @@
+# Found alternative
+
+https://github.com/scrollmapper/bible_databases
+I found out after I generated this that there is someone who has even more bibles translated from more languages
+
 # DRB & CPDV Bible JSON
 
 This repository provides structured JSON versions of two complete Catholic Bible translations:
