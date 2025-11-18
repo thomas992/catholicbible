@@ -1,9 +1,4 @@
-# Found alternative
-
-https://github.com/scrollmapper/bible_databases
-I found out after I generated this that there is someone who has even more bibles translated from more languages
-
-# DRB & CPDV Bible JSON
+# DRB & CPDV Bible Data
 
 This repository provides structured JSON versions of two complete Catholic Bible translations:
 
@@ -46,6 +41,10 @@ Both JSON files share the same structure:
 * Both DRB and CPDV are in the public domain.
 
 ## Attribution
+
+I forget where I got DRB json but it was public domain
+CPDV - https://bitbucket.org/sbruno/cpdv-json-encoder/src/master/
+I originally prepared the JSON files from other sources but they were flawed. I added databases since then though.
 
 Prepared and structured by **Thomas Hansen**.
 Translations are in the **public domain** and free to use without restriction.
